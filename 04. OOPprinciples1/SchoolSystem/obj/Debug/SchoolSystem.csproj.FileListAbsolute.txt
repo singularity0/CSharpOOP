@@ -1,0 +1,6 @@
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\SchoolSystem\bin\Debug\SchoolSystem.exe.config
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\SchoolSystem\bin\Debug\SchoolSystem.exe
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\SchoolSystem\bin\Debug\SchoolSystem.pdb
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\SchoolSystem\obj\Debug\SchoolSystem.exe
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\SchoolSystem\obj\Debug\SchoolSystem.pdb

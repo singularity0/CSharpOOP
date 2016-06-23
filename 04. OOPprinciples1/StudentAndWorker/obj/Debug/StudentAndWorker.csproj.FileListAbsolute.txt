@@ -1,0 +1,6 @@
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\StudentAndWorker\bin\Debug\StudentAndWorker.exe.config
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\StudentAndWorker\bin\Debug\StudentAndWorker.exe
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\StudentAndWorker\bin\Debug\StudentAndWorker.pdb
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\StudentAndWorker\obj\Debug\StudentAndWorker.csprojResolveAssemblyReference.cache
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\StudentAndWorker\obj\Debug\StudentAndWorker.exe
+c:\users\messynger\documents\visual studio 2015\Projects\OOP_Main1\StudentAndWorker\obj\Debug\StudentAndWorker.pdb
