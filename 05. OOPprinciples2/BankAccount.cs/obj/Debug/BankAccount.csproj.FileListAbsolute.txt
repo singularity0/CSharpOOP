@@ -1,0 +1,6 @@
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\BankAccount.cs\bin\Debug\BankAccount.cs.exe.config
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\BankAccount.cs\bin\Debug\BankAccount.cs.exe
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\BankAccount.cs\bin\Debug\BankAccount.cs.pdb
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\BankAccount.cs\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\BankAccount.cs\obj\Debug\BankAccount.cs.exe
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\BankAccount.cs\obj\Debug\BankAccount.cs.pdb

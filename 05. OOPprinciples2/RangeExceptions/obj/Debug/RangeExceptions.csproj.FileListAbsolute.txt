@@ -1,0 +1,6 @@
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\RangeExceptions\bin\Debug\RangeExceptions.exe.config
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\RangeExceptions\bin\Debug\RangeExceptions.exe
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\RangeExceptions\bin\Debug\RangeExceptions.pdb
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\RangeExceptions\obj\Debug\RangeExceptions.csprojResolveAssemblyReference.cache
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\RangeExceptions\obj\Debug\RangeExceptions.exe
+c:\users\messynger\documents\visual studio 2015\Projects\OOPprinciples2\RangeExceptions\obj\Debug\RangeExceptions.pdb
